@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    UILabel *lable = [[UILabel alloc]init];
     // Do any additional setup after loading the view, typically from a nib.
     
     //这就是想要测试一下分支，你说你这么着急干什么啊
