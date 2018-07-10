@@ -15,6 +15,7 @@
 		58B4AFB020EFAE3F001004D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58B4AFAE20EFAE3F001004D0 /* LaunchScreen.storyboard */; };
 		58B4AFBB20EFAE3F001004D0 /* sdfaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B4AFBA20EFAE3F001004D0 /* sdfaTests.m */; };
 		58B4AFC620EFAE3F001004D0 /* sdfaUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B4AFC520EFAE3F001004D0 /* sdfaUITests.m */; };
+		58B4AFD520EFAE69001004D0 /* TimerClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B4AFD420EFAE69001004D0 /* TimerClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		58B4AFC120EFAE3F001004D0 /* sdfaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sdfaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		58B4AFC520EFAE3F001004D0 /* sdfaUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sdfaUITests.m; sourceTree = "<group>"; };
 		58B4AFC720EFAE3F001004D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58B4AFD320EFAE69001004D0 /* TimerClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimerClass.h; sourceTree = "<group>"; };
+		58B4AFD420EFAE69001004D0 /* TimerClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TimerClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				58B4AFAE20EFAE3F001004D0 /* LaunchScreen.storyboard */,
 				58B4AFB120EFAE3F001004D0 /* Info.plist */,
 				58B4AFA020EFAE3F001004D0 /* Supporting Files */,
+				58B4AFD320EFAE69001004D0 /* TimerClass.h */,
+				58B4AFD420EFAE69001004D0 /* TimerClass.m */,
 			);
 			path = sdfa;
 			sourceTree = "<group>";
@@ -275,6 +280,7 @@
 			files = (
 				58B4AFA820EFAE3F001004D0 /* ViewController.m in Sources */,
 				58B4AFA520EFAE3F001004D0 /* AppDelegate.m in Sources */,
+				58B4AFD520EFAE69001004D0 /* TimerClass.m in Sources */,
 				58B4AFA220EFAE3F001004D0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
