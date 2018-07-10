@@ -28,5 +28,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)test1 {
+    NSLog(@"我是李思");
+}
+
 
 @end
