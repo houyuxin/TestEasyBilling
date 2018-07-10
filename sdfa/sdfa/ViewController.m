@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  wruiwyi
+//  sdfa
 //
-//  Created by hyx on 2018/7/5.
+//  Created by hyx on 2018/7/6.
 //  Copyright © 2018年 HYX. All rights reserved.
 //
 
@@ -16,11 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    UILabel *lable = [[UILabel alloc]init];
     // Do any additional setup after loading the view, typically from a nib.
-    
-    //这就是想要测试一下分支，你说你这么着急干什么啊
-    //我添加了一个分支
 }
 
 
@@ -28,7 +24,6 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
 
 
 @end
