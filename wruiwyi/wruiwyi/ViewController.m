@@ -29,5 +29,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)gitdemo {
+    NSLog(@"%@",@"这是gitdome");
+}
+
 
 @end
