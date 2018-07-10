@@ -15,6 +15,7 @@
 		58B4AF7120EE43C2001004D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58B4AF6F20EE43C2001004D0 /* LaunchScreen.storyboard */; };
 		58B4AF7C20EE43C2001004D0 /* wruiwyiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B4AF7B20EE43C2001004D0 /* wruiwyiTests.m */; };
 		58B4AF8720EE43C2001004D0 /* wruiwyiUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B4AF8620EE43C2001004D0 /* wruiwyiUITests.m */; };
+		58B4AFDE20F4F7BB001004D0 /* Listdemo.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B4AFDD20F4F7BB001004D0 /* Listdemo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		58B4AF8220EE43C2001004D0 /* wruiwyiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = wruiwyiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		58B4AF8620EE43C2001004D0 /* wruiwyiUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = wruiwyiUITests.m; sourceTree = "<group>"; };
 		58B4AF8820EE43C2001004D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58B4AFDC20F4F7BB001004D0 /* Listdemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Listdemo.h; sourceTree = "<group>"; };
+		58B4AFDD20F4F7BB001004D0 /* Listdemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Listdemo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				58B4AF6F20EE43C2001004D0 /* LaunchScreen.storyboard */,
 				58B4AF7220EE43C2001004D0 /* Info.plist */,
 				58B4AF6120EE43C2001004D0 /* Supporting Files */,
+				58B4AFDC20F4F7BB001004D0 /* Listdemo.h */,
+				58B4AFDD20F4F7BB001004D0 /* Listdemo.m */,
 			);
 			path = wruiwyi;
 			sourceTree = "<group>";
@@ -275,6 +280,7 @@
 			files = (
 				58B4AF6920EE43C2001004D0 /* ViewController.m in Sources */,
 				58B4AF6620EE43C2001004D0 /* AppDelegate.m in Sources */,
+				58B4AFDE20F4F7BB001004D0 /* Listdemo.m in Sources */,
 				58B4AF6320EE43C2001004D0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -505,6 +511,7 @@
 				58B4AF8D20EE43C2001004D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		58B4AF8E20EE43C2001004D0 /* Build configuration list for PBXNativeTarget "wruiwyiTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +520,7 @@
 				58B4AF9020EE43C2001004D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		58B4AF9120EE43C2001004D0 /* Build configuration list for PBXNativeTarget "wruiwyiUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +529,7 @@
 				58B4AF9320EE43C2001004D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
