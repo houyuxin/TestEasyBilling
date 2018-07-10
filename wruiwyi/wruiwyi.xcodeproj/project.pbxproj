@@ -505,6 +505,7 @@
 				58B4AF8D20EE43C2001004D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		58B4AF8E20EE43C2001004D0 /* Build configuration list for PBXNativeTarget "wruiwyiTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +514,7 @@
 				58B4AF9020EE43C2001004D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		58B4AF9120EE43C2001004D0 /* Build configuration list for PBXNativeTarget "wruiwyiUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +523,7 @@
 				58B4AF9320EE43C2001004D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
