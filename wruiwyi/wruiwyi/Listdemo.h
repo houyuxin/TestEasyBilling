@@ -10,4 +10,6 @@
 
 @interface Listdemo : NSObject
 
+- (void)test1;
+
 @end

@@ -10,4 +10,8 @@
 
 @implementation Listdemo
 
+- (void)test1 {
+    NSLog(@"合并分支");
+}
+
 @end
