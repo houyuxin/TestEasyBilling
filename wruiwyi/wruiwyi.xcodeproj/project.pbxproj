@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5819F80320FE46580089714B /* fauture.m in Sources */ = {isa = PBXBuildFile; fileRef = 5819F80220FE46580089714B /* fauture.m */; };
 		58B4AF6320EE43C2001004D0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B4AF6220EE43C2001004D0 /* main.m */; };
 		58B4AF6620EE43C2001004D0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B4AF6520EE43C2001004D0 /* AppDelegate.m */; };
 		58B4AF6920EE43C2001004D0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B4AF6820EE43C2001004D0 /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5819F80120FE46580089714B /* fauture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fauture.h; sourceTree = "<group>"; };
+		5819F80220FE46580089714B /* fauture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fauture.m; sourceTree = "<group>"; };
 		58B4AF5E20EE43C2001004D0 /* wruiwyi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wruiwyi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		58B4AF6220EE43C2001004D0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		58B4AF6420EE43C2001004D0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -115,6 +118,8 @@
 				58B4AF6120EE43C2001004D0 /* Supporting Files */,
 				58B4AFDC20F4F7BB001004D0 /* Listdemo.h */,
 				58B4AFDD20F4F7BB001004D0 /* Listdemo.m */,
+				5819F80120FE46580089714B /* fauture.h */,
+				5819F80220FE46580089714B /* fauture.m */,
 			);
 			path = wruiwyi;
 			sourceTree = "<group>";
@@ -279,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				58B4AF6920EE43C2001004D0 /* ViewController.m in Sources */,
+				5819F80320FE46580089714B /* fauture.m in Sources */,
 				58B4AF6620EE43C2001004D0 /* AppDelegate.m in Sources */,
 				58B4AFDE20F4F7BB001004D0 /* Listdemo.m in Sources */,
 				58B4AF6320EE43C2001004D0 /* main.m in Sources */,
